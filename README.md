@@ -7,4 +7,4 @@ Note: It doesn't matter if it's quotted or not
 4. Run the script with any IDE that can execute Python script
 5. Spam/DM Alexa with your generated keys 
 
-*Keep Spamming Until You Find The Key*
+# *Keep Spamming Until You Find The Key*
