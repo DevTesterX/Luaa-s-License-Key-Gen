@@ -5,6 +5,6 @@
 Note: It doesn't matter if it's quotted or not
 3. Read the comments and choose your options
 4. Run the script with any IDE that can execute Python script
-5. Spam/DM Alexa with your generated keys 
+5. Spam/DM Alexa with your generated key until you find the right one 
 
 # *Keep Spamming Until You Find The Key*
